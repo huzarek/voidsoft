@@ -88,17 +88,6 @@ main {
     transform: scale(1.05);
 }
 
-/* Logo */
-.logo {
-    position: absolute;
-    top: 50px; /* Odstęp od góry */
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 10;
-    width: 150px;  /* Możesz dostosować ten rozmiar według potrzeby */
-    height: auto;
-}
-
 /* Footer */
 footer {
     text-align: center;
